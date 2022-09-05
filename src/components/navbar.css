@@ -4,7 +4,7 @@ nav {
   background: var(--color-primary);
   display: grid;
   place-items: center;
-  /* position: fixed; */
+  position: fixed;
   top: 0;
   left: 0;
   z-index: 99;
@@ -55,7 +55,7 @@ nav {
     position: absolute;
     left: calc(50% - 0.6rem);
     transform: rotate(45deg);
-    margin-top: 2.2rem;
+    margin-top: 0.9rem;
 }
 
 /* Media Queries medium & small */
