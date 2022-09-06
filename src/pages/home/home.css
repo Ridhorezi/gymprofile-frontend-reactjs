@@ -3,7 +3,7 @@
   height: calc(100vh-5rem);
   display: grid;
   place-items: center;
-  margin-top: 5rem;
+  margin-top: 6rem;
 }
 
 .main__header-container {

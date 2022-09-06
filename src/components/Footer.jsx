@@ -71,7 +71,7 @@ const Footer = () => {
         </article>
       </div>
       <div className="footer__copyright">
-        <small>2022 Abhay Babbar &copy; All Rights Reserved</small>
+        <small>2022 Ridho Suhaebi Arrowi &copy; All Rights Reserved</small>
       </div>
     </footer>
   );
