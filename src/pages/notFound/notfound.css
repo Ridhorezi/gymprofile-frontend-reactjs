@@ -1,0 +1,10 @@
+.notfound__container {
+  display: grid;
+  place-items: center;
+  padding-top: 8rem;
+}
+
+.notfound__container .btn {
+  display: inline-block;
+  margin-top: 2rem;
+}
